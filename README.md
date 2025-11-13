@@ -75,7 +75,7 @@ Neslihan Gülsoy - gulsoyneslihan0@gmail.com
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/neslihan-gülsoy
+[linkedin-url]: https://www.linkedin.com/in/neslihan-gülsoy
 
 [MATLAB]: https://img.shields.io/badge/matlab-001000?style=for-the-badge&logo=matlab&logoColor=blue
 [MATLAB-url]: https://www.mathworks.com/products/matlab.html
